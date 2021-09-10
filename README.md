@@ -37,8 +37,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
     <p>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.The CSS specifications are maintained by the World Wide Web Consortium (W3C).</p>
       <p>3) <strong>TYPESCRIPT:-</strong> 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
-<p>4) <strong>TYPESCRIPT:-</strong> 
-TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
+<p>4) <strong>TYPESCRIPT:-</strong> Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).</strong></p>
   </div>
     
 
