@@ -4,13 +4,13 @@
   
   <a href="https://github.com/abbasmurudkar">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=abbasmurudkar&column=7&theme=tokyonight"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=abbasmurudkar&column=7"/>
     </p>
 </a>
   
   <a align="center" href="https://github.com/abbasmurudkar">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=mereko" &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
  alt="my github stats" width="420"/>
     </p>
 </a>
