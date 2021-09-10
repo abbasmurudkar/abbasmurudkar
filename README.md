@@ -33,13 +33,6 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </h4>
 
-<!-- <h4 align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/ width="250px">
-  </h4> -->
-
-
-  &nbsp;The languages use by us
-
 
 
   
