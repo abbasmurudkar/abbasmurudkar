@@ -32,11 +32,11 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   <h2 align="center">
   <h2>LANGUAGES USE MOST</h2>
 </h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 <p align="right">
 hello
   </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-
 
 
 
