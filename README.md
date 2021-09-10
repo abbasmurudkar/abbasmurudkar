@@ -7,6 +7,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=junaidfkhan786&column=6&theme=onedark"/>
     </p>
 </a>
+  
+  <a align="center" href="https://github.com/junaidfkhan786">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
+    </p>
+</a>
 
 <!--
 **abbasmurudkar/abbasmurudkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
