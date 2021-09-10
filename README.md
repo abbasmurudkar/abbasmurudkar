@@ -10,7 +10,8 @@
   
   <a align="center" href="https://github.com/abbasmurudkar">
     <p align="center">
-    <img src="https://camo.githubusercontent.com/3986fdef016105b2217a0fa57b66c566550e5dfdb27e9bd939211823b9f60f11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+ alt="my github stats" width="420"/>
     </p>
 </a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="600px"/>
