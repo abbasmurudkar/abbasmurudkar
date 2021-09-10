@@ -24,5 +24,6 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <i>Database:-</i> <strong>Experience with MY SQL,PHP...</strong>
 <br>
 <br>
-<h4>👉Do follow for more interesting codes:- [@abbasmurudkar](https://www.github.com/abbasmurudkar)</h4>
+<h4>Do follow for more interesting codes:- </h4>
+ 👉[@abbasmurudkar](https://www.github.com/abbasmurudkar)
 
