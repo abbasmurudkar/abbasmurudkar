@@ -39,7 +39,41 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
 <p>4) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user</strong></p>
   </div>
-    
+   ## 📫 How to reach me:
+
+
+ 📷 Instagram: [@junaidkhan](https://www.instagram.com/jk__dev/)<br>
+🧳 LinkedIn: [Junaid Khan](https://www.linkedin.com/in/junaid-khan-01b9a2198/)
+<br>
+
+
+<div align="center">
+
+### Any fool can write code that a computer can understand.Good programmers write code that humans can understand!
+
+</div>
+
+<!-- programming langs i work-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="25px" height="25px"/>
+</p>
 
 
 
