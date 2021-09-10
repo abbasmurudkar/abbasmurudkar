@@ -28,20 +28,14 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <br>
   
-<!--   <h2 align="center">
-LANGUAGES USE MOST
-</h2>
-<p align="right">
-hello
-  </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> -->
 <h2 align="center">
   languages
   </h2>
   <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> -->
-    hrllo watsapdkjasndkjkjfkjsj
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> 
+    <ol>
+      <li>hello</li>
+  </ol>
   </div>
     
 
