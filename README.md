@@ -25,11 +25,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <br>
 <p>Do follow for more interesting codes:-<a href="https://www.github.com/abbasmurudkar" color="blue">👉ABBASMURUDKAR</a></p>
-<strong>👉👉How to reach me:<strong>
-
- 📷 Instagram: [@junaidkhan](https://www.instagram.com/jk__dev/)<br>
-🧳 LinkedIn: [Junaid Khan](https://www.linkedin.com/in/junaid-khan-01b9a2198/)
-<br>
+<hr>
 
 
 
