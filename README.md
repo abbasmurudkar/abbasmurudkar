@@ -29,9 +29,9 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <hr>
   
-  <h4 align="center">
+  <h2 align="center">
   <h2>LANGUAGES USE MOST</h2>
-</h4>
+</h2>
 <p align="right">
 hello
   </p>
