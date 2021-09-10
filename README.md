@@ -4,7 +4,7 @@
   
   <a href="https://github.com/abbasmurudkar">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=junaidkhan786&column=6&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=junaidfkhan786&column=6&theme=onedark"/>
     </p>
 </a>
   
