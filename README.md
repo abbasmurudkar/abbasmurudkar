@@ -1,4 +1,10 @@
 <h2>Hello, I am ABBAS MURUDKAR  <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+  
+  <a href="https://github.com/abbasmurudkar">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=junaidfkhan786&column=6&theme=onedark"/>
+    </p>
+</a>
 
 <!--
 **abbasmurudkar/abbasmurudkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
