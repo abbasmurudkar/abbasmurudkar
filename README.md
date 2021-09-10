@@ -14,7 +14,7 @@
     </p>
 </a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="500px"/>
-I am  **Full-Stack Developer** with hands on experience in **Frontend** and **Backend** development. Proficient with various web development frameworks and libraries. 
+I am  **Full-Stack Developer** with hands on experience in Frontend and Backend development. Proficient with various web development frameworks and libraries. 
 <!--
 **abbasmurudkar/abbasmurudkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
