@@ -3,7 +3,7 @@
   
   
   <a href="https://github.com/abbasmurudkar">
-    <p align="center">
+    <p align="right">
         <img src="https://github-profile-trophy.vercel.app/?username=abbasmurudkar&column=6&theme=onedark"/>
     </p>
 </a>
