@@ -3,8 +3,8 @@
   
   
   <a href="https://github.com/abbasmurudkar">
-    <p align="right">
-        <img src="https://github-profile-trophy.vercel.app/?username=abbasmurudkar&column=6&theme=onedark"/>
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=abbasmurudkar&column=5&theme=onedark"/>
     </p>
 </a>
   
