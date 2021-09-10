@@ -42,8 +42,8 @@ TypeScript is a superset of the JavaScript language that has a single open-sourc
   <h2> 📫 How to reach me:</h2>
 
 
- 📷 Instagram: [@junaidkhan](https://www.instagram.com/jk__dev/)<br>
-🧳 LinkedIn: [Junaid Khan](https://www.linkedin.com/in/junaid-khan-01b9a2198/)
+ 📷 Instagram: [@abbasmurudkar](https://www.instagram.com/_.abbas__07)<br>
+🧳 LinkedIn: [Abbas Murudkar](https://www.linkedin.com/in/abbas-murudkar-0084391ba/)
 <br>
 
 
