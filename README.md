@@ -10,7 +10,6 @@
   
   <a align="center" href="https://github.com/abbasmurudkar">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/ width="200px">
     <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 </a>
@@ -30,7 +29,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <hr>
   
-  <h4 align="right">
+  <h4 align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </h4>
 
