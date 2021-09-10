@@ -39,7 +39,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
 <p>4) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user</strong></p>
   </div>
-   ## 📫 How to reach me:
+  <h2> 📫 How to reach me:</h2>
 
 
  📷 Instagram: [@junaidkhan](https://www.instagram.com/jk__dev/)<br>
