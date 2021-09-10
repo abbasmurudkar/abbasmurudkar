@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 </a>
-  <img align="right" alt="GIF" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif" width="100px"/>
+  <img align="right" alt="GIF" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif" width="200px"/>
 
 
 <!--
