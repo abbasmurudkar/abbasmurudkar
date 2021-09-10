@@ -28,6 +28,9 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <br>
 <hr>
+<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats)
+ </p>
 
 
 
