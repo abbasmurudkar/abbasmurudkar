@@ -31,11 +31,8 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   <h2 align="center">
 LANGUAGES USE MOST
 </h2>
-<p align="right" href="https://github.com/abbasmurudkar">
-  <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="right">
-  </p>
-  </p>
+
 
 
 
