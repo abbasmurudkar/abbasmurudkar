@@ -29,12 +29,12 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <hr>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/>
-  <p align="right">
+</p>  
+<p align="right">
   The languages use by us
     </p>
-</p>  
 
   
 
