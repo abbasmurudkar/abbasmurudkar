@@ -34,6 +34,8 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> 
   <p1>1) <strong>HTML:-</strong> The html language is common for all webapplication as well as frameworks.It is the basic structure for webpages</p1>
+    <p1>1) <strong>HTML:-</strong> The html language is common for all webapplication as well as frameworks.It is the basic structure for webpages</p1>
+
   </div>
     
 
