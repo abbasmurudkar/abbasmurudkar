@@ -33,7 +33,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   </h2>
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> 
-  <p1> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) <strong>HTML:-</strong> The html language is common for all webapplication as well as frameworks.It is the basic structure for webpages.</p1><br>
+  <p1> &nbsp;&nbsp;&nbsp;&nbsp;1) <strong>HTML:-</strong> The html language is common for all webapplication as well as frameworks.It is the basic structure for webpages.</p1><br>
     <p1>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.</p1>
 
   </div>
