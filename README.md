@@ -1,4 +1,4 @@
-<h2>Hello, I am ABBAS MURUDKAR  <img src="https://c.tenor.com/ca9nwQykhWMAAAAC/garfield-hi-there.gif" width="100px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+<h2>Hello, I am ABBAS MURUDKAR  <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="100px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 <!--
 **abbasmurudkar/abbasmurudkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
