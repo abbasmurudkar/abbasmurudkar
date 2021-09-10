@@ -32,7 +32,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   LANGUAGES USE IN MY REPO
   </h2>
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left" width="400px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left" width="450px"> 
   <p>1) <strong>HTML:-</strong> The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. HTML describes the structure of a web.</p>
     <p>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.The CSS specifications are maintained by the World Wide Web Consortium (W3C).</p>
       <p>3) <strong>TYPESCRIPT:-</strong> 
