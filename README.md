@@ -30,6 +30,11 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/>
+<p align="right">
+  The languages use by us
+
+</p>
+  
 
 
 
