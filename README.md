@@ -30,7 +30,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <hr>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/ width="500px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/ width="250px">
 </p>  
 <p align="right">
   The languages use by us
