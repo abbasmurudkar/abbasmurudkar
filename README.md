@@ -33,7 +33,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   </h2>
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> 
-    <ol width="100px">
+    <ol width="1000px">
       <li>hello</li>
   </ol>
   </div>
