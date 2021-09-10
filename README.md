@@ -34,7 +34,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left"> 
   <p1>1) <strong>HTML:-</strong> The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. HTML describes the structure of a web page.</p1><br>
-    <p1>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.The CSS specifications are maintained by the World Wide Web Consortium (W3C).</p1><br><br>
+    <p1>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.The CSS specifications are maintained by the World Wide Web Consortium (W3C).</p1><br>
       <p1>2) <strong>TYPESCRIPT:-</strong> 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p1>
 
