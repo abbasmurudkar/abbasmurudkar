@@ -27,6 +27,8 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <p>Do follow for more interesting codes:-<a href="https://www.github.com/abbasmurudkar" color="blue">👉ABBASMURUDKAR</a></p><br><br>
 <hr>
 <h2>WORKING WITH LANGUAGES</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
