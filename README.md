@@ -32,8 +32,8 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 LANGUAGES USE MOST
 </h2>
 <p align="right" href="https://github.com/abbasmurudkar">
-  <p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/>
+  <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="right">
   </p>
   </p>
 
