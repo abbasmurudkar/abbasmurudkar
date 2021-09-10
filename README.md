@@ -18,7 +18,7 @@
 I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>Frontend</strong> development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
-Proficiency in <strong>Node,Angular,React,Html,CSS,and Javascript...<strong>
+<u><i>Proficiency in:-</i></u> <strong>Node,Angular,React,Html,CSS,and Javascript...<strong>
 <br>
 <br>
  
