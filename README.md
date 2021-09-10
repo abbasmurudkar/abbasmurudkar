@@ -33,7 +33,9 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 LANGUAGES USE MOST
 </h2>
 <a align="right" href="https://github.com/abbasmurudkar">
+  <p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+  </p>
   </a>
 
 hello
