@@ -32,12 +32,12 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
   LANGUAGES USE IN MY REPOSITORY
   </h2>
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left" width="425px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats" align="left" width="400px"> 
   <p>1) <strong>HTML:-</strong> The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. HTML describes the structure of a web.</p>
     <p>2) <strong>CSS:-</strong> Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.The CSS specifications are maintained by the World Wide Web Consortium (W3C).</p>
       <p>3) <strong>TYPESCRIPT:-</strong> 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
-<p>4) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user</strong></p>
+<p>4) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages,JavaScript give web pages interactive element that engage a user</strong></p>
   </div>
   <h2> 📫 How to reach me:</h2>
 
