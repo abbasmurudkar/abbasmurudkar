@@ -10,8 +10,7 @@
   
   <a align="center" href="https://github.com/abbasmurudkar">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight 
- alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abbasmurudkar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 </a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="600px"/>
