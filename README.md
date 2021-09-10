@@ -15,7 +15,7 @@
 </a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="600px"/>
   <br><br>
-I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>Frontend</strong> development. Proficient with various web development frameworks and libraries. 
+I am  <strong>Full-Stack Developer</strong> with hands on experience in **Frontend** development. Proficient with various web development frameworks and libraries. 
 <br>
 <br>
 <i>Proficiency in:-</i><strong>Node, Angular, React, Html, CSS, and Javascript...</strong>
@@ -25,6 +25,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <br>
 <p>Do follow for more interesting codes:-<a href="https://www.github.com/abbasmurudkar" color="blue">👉ABBASMURUDKAR</a></p>
+
 
 
 
