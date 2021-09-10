@@ -16,5 +16,10 @@
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="700px"/>
   <br><br>
 I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>Frontend</strong> development. Proficient with various web development frameworks and libraries. 
+<br>
+<br>
+Proficiency in **Node,Angular,React,React Native,Flutter and Javascript**...
+<br>
+<br>
  
 
