@@ -21,5 +21,8 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <i>Proficiency in:-</i><strong>Node,Angular,React,Html,CSS,and Javascript...<strong>
 <br>
 <br>
+<i>Database:-</i> <strong>Experience with MY SQL,PHP...<strong>
+<br>
+<br>
  
 
