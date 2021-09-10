@@ -31,7 +31,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 
 <h4 align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurudkar&layout=compact)](https://github.com/abbasmurudkar/github-readme-stats"/ width="250px">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=abbasmurudkar&repo=github-readme-stats)](https://github.com/abbasmurudkar/github-readme-stats"/>
 
   </h4>
 
