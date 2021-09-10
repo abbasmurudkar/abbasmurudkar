@@ -38,6 +38,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
       <p>3) <strong>TYPESCRIPT:-</strong> 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
 <p>4) <strong>SCSS:-</strong> Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).</strong></p>
+<p>5) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user</strong></p>
   </div>
     
 
