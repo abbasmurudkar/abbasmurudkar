@@ -28,7 +28,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
 <br>
 <br>
   
-<h2 align="center">
+<!-- <h2 align="center">
   LANGUAGES USE IN MY REPOSITORY
   </h2>
   <div align="center">
@@ -38,7 +38,7 @@ I am  <strong>Full-Stack Developer</strong> with hands on experience in <strong>
       <p>3) <strong>TYPESCRIPT:-</strong> 
 TypeScript is a superset of the JavaScript language that has a single open-source compiler and is developed mainly by a single vendor. It is commonly used by the <strong>framework like Angular</strong></p>
 <p>4) <strong>JAVASCRIPT:-</strong> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. JavaScript give web pages interactive element that engage a user</strong></p>
-  </div>
+  </div> -->
   <h2> 📫 How to reach me:</h2>
 
 
